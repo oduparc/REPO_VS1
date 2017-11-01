@@ -9,5 +9,6 @@ namespace ClassLibrary1
     public class Class1
     {
         // Code was edited in GitHub
+        // Code was added in VS
     }
 }
