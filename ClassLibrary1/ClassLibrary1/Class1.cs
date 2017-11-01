@@ -13,5 +13,7 @@ namespace ClassLibrary1
 
         // added in VS       
         // Added in GitHub
+
+        Class1 c = new Class1();
     }
 }
