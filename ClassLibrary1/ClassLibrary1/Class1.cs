@@ -8,6 +8,6 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        // Code was added in GitHub
+        // Code was edited in GitHub
     }
 }
