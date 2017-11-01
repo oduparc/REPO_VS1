@@ -10,5 +10,7 @@ namespace ClassLibrary1
     {
         // Code was edited in GitHub
         // Code was added in VS
+
+        // added in VS
     }
 }
