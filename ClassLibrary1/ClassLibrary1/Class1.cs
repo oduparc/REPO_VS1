@@ -15,6 +15,8 @@ namespace ClassLibrary1
         // Added in GitHub
 
         Class1 c = new Class1();
+        
+        // Call to Feature3
 
         // Call Feature2
     }
